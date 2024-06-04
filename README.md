@@ -5,8 +5,6 @@
 <div align="center">
  
  🔭 I’m currently working as fullstack developer 
- 
- 🌱 I’m currently learning **Design Patterns and Complex Data Structures**
 
 💬 Ask me about **JS, HTML, CSS, BOOTSTRAP, REACT.JS, JAVA, SPRING BOOT or anything [here](https://github.com/rafael-kuchla-flores/rafael-kuchla-flores/issues)**
 
